@@ -22,3 +22,29 @@ export async function createProduct(req: Request, res: Response) {
     console.log("erro", erro);
   }
 }
+// [
+// {
+//   "name": "Pão",
+//   "icon": "🍞"
+// },
+// {
+//   "name": "Carne",
+//   "icon": "🍖"
+// },
+// {
+//   "name": "Bacon",
+//   "icon": "🥓"
+// },
+// {
+//   "name": "Molho Especial",
+//   "icon": "🫕"
+// },
+// {
+//   "name": "Alface",
+//   "icon": "🥬"
+// },
+// {
+//   "name": "Tomate",
+//   "icon": "🍅"
+// }
+// ]
